@@ -1,15 +1,14 @@
 ### Sobre mí
-Soy estudiante de la carrera Analista de Sistemas, además de autodidacta. Tengo sólidos conocimientos en SQL, Python, y en tecnologías de desarrollo frontend (HTML, CSS, Javascript, React, jQuery, SPA, MVC, entre otras). Actualmente estoy trabajando en mi portafolio personal de desarrollos para poder mostrar mis cualidades.
+Soy un Analista/Desarrollador Jr con experiencia en desarrollo web, herramientas de Oracle y soporte de usuario. He trabajado con tecnologías como HTML, CSS, JavaScript, React, Oracle Forms y Reports, y tengo conocimientos en bases de datos Oracle y lenguaje PL/SQL. Además, he desarrollado habilidades en atención al cliente y soporte de usuario, lo que me permite entender y solucionar problemas de manera eficiente.
 ### Conocimiento IT
+- Herramientas de Oracle: Oracle Forms, Reports y Apex. Desarrollo en Pl/Sql.
+- Desarrollo web con html, css y javascript (incluyendo conceptos avanzados como OOP, Fetch, Async, y más).
+- Preprocesador de CSS, SaSS. Librerias de estilos Bootstrap.
+- React (hooks, react-router y más) y nociones basicas de Next.
 - Python (incluyendo conocimientos de clases, objetos, etc).
-- Lenguaje de consultas a bases de datos SQL.
-- JavaScript (incluyendo conceptos avanzados como OOP, Fetch, Async, y más).
-- React (hooks, react-router y más).
-- HTML y CSS avanzado.
-- Preprocesador de CSS, SaSS.
-- Arquitectura BEM de CSS.
+- Manejo de bases de datos: Oracle Developer, MySql, SQL Server.
 - NPM y Yarn.
 - Git y GitHub.
-- Bootstrap.
+
 ### Redes y Contacto
 - https://www.linkedin.com/in/marcio-montivero/
